@@ -28,17 +28,17 @@ git clone https://github.com/salmanfareeth/PHP-login-demo.git
 2. **Navigate to the project directory:**
 
 ```bash
-cd php-login-demo
+cd PHP-login-demo
 ```
 
 3. **Import the SQL database:**
 
-  - Create a database named login_demo in your MySQL server.
+  - Create a database named `db_login` in your MySQL server.
   - Import the SQL script from the `addusers.sql` file to create the users table and insert a sample user.
 
 4. **Update the database configuration:**
 
-  - Open config.php and update the database connection details if necessary.
+  - Open `config.php` and update the database connection details if necessary.
 
 5. **Start Your Web Server:**
 
@@ -68,5 +68,4 @@ cd php-login-demo
 
 ## Important Note
 
-This project is for demonstration and learning purposes only. Do not use this code in a production environment without proper security measures. Always follow best practices for web security in real-world applications.
-
+This project is for demonstration and learning purposes only. Do not use this code in a production environment without proper security measures. Always follow best practices for web security in real-world applications. This project is created by salmanfareeth. Use it responsibly and modify it according to your needs.
