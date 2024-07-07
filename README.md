@@ -33,16 +33,16 @@ cd php-login-demo
 
 3. **Import the SQL database:**
 
-- Create a database named login_demo in your MySQL server.
-- Import the SQL script from the `addusers.sql` file to create the users table and insert a sample user.
+  - Create a database named login_demo in your MySQL server.
+  - Import the SQL script from the `addusers.sql` file to create the users table and insert a sample user.
 
 4. **Update the database configuration:**
 
-- Open config.php and update the database connection details if necessary.
+  - Open config.php and update the database connection details if necessary.
 
 5. **Start Your Web Server:**
 
-- Ensure your web server (Apache, Nginx, etc.) or PHP built-in server is running.
+  - Ensure your web server (Apache, Nginx, etc.) or PHP built-in server is running.
   
 6. **Open your web browser and navigate to `http://localhost:8000/register.php` to register a new user.**
 
