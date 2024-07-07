@@ -68,5 +68,5 @@ cd php-login-demo
 
 ## Important Note
 
-This project is for demonstration and learning purposes only. Do not use this code in a production environment without proper security measures.
+This project is for demonstration and learning purposes only. Do not use this code in a production environment without proper security measures. Always follow best practices for web security in real-world applications.
 
